@@ -1,5 +1,16 @@
 {
     "available_space": true,
-    "files": [],
-    "total_size": 0.0
+    "files": [
+        {
+            "name": "Naufrage en Adriatique-d414nPNQJkE.mp4",
+            "path": "music_t2/videos/Naufrage en Adriatique-d414nPNQJkE.mp4",
+            "size": 6.681664512
+        },
+        {
+            "name": "Funny Face-L3LLQ3HN0bA.mp4",
+            "path": "music_t2/videos/Funny Face-L3LLQ3HN0bA.mp4",
+            "size": 3.8326190080000004
+        }
+    ],
+    "total_size": 10.514283520000001
 }
