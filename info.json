@@ -2,6 +2,11 @@
     "available_space": true,
     "files": [
         {
+            "name": "Krumpholz - Harp Concerto in F major, Op. 9-lAbkNjr2BpA.mp4",
+            "path": "music_t2/videos/Krumpholz - Harp Concerto in F major, Op. 9-lAbkNjr2BpA.mp4",
+            "size": 37.808423936000004
+        },
+        {
             "name": "Naufrage en Adriatique-d414nPNQJkE.mp4",
             "path": "music_t2/videos/Naufrage en Adriatique-d414nPNQJkE.mp4",
             "size": 6.681664512
@@ -27,5 +32,5 @@
             "size": 3.8326190080000004
         }
     ],
-    "total_size": 50.08484249600001
+    "total_size": 87.893266432
 }
