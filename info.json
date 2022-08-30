@@ -1,61 +1,280 @@
 {
-    "available_space": true,
+    "available_space": false,
     "content": [
         {
+            "id": "syFKO4ou8sw",
             "name": "BARRICADA noche de rock & roll (K7, 1983)-syFKO4ou8sw.mp4",
             "path": "t2/videos/BARRICADA noche de rock & roll (K7, 1983)-syFKO4ou8sw.mp4",
-            "size": 48.558387200000006,
+            "size": 47.4203,
             "url": "https://github.com/circuitalmynds/music_t2/blob/main/videos/BARRICADA noche de rock & roll (K7, 1983)-syFKO4ou8sw.mp4?raw=true"
         },
         {
+            "id": "RPUpxWFbAjI",
             "name": "Patrick Cowley - Right on Target (feat. Paul Parker)-RPUpxWFbAjI.mp4",
             "path": "t2/videos/Patrick Cowley - Right on Target (feat. Paul Parker)-RPUpxWFbAjI.mp4",
-            "size": 12.987393024000001,
+            "size": 12.683000999999999,
             "url": "https://github.com/circuitalmynds/music_t2/blob/main/videos/Patrick Cowley - Right on Target (feat. Paul Parker)-RPUpxWFbAjI.mp4?raw=true"
         },
         {
+            "id": "lAbkNjr2BpA",
             "name": "Krumpholz - Harp Concerto in F major, Op. 9-lAbkNjr2BpA.mp4",
             "path": "t2/videos/Krumpholz - Harp Concerto in F major, Op. 9-lAbkNjr2BpA.mp4",
-            "size": 37.808423936000004,
+            "size": 36.922289,
             "url": "https://github.com/circuitalmynds/music_t2/blob/main/videos/Krumpholz - Harp Concerto in F major, Op. 9-lAbkNjr2BpA.mp4?raw=true"
         },
         {
+            "id": "b44-5M4e9nI",
             "name": "Saint-Saens  - The Swan ( Le Cygne )  - Carnival of the Animals-b44-5M4e9nI.mp4",
             "path": "t2/videos/Saint-Saens  - The Swan ( Le Cygne )  - Carnival of the Animals-b44-5M4e9nI.mp4",
-            "size": 3.6353228800000004,
+            "size": 3.5501199999999997,
             "url": "https://github.com/circuitalmynds/music_t2/blob/main/videos/Saint-Saens  - The Swan ( Le Cygne )  - Carnival of the Animals-b44-5M4e9nI.mp4?raw=true"
         },
         {
+            "id": "L3LLQ3HN0bA",
             "name": "Funny Face-L3LLQ3HN0bA.mp4",
             "path": "t2/videos/Funny Face-L3LLQ3HN0bA.mp4",
-            "size": 3.8326190080000004,
+            "size": 3.7427919999999997,
             "url": "https://github.com/circuitalmynds/music_t2/blob/main/videos/Funny Face-L3LLQ3HN0bA.mp4?raw=true"
         },
         {
+            "id": "_XLzfbSeKJ4",
+            "name": "Nina Hagen Band - TV-Glotzer & Auf'm Bahnhof Zoo (Pop 78)-_XLzfbSeKJ4.mp4",
+            "path": "t2/videos/Nina Hagen Band - TV-Glotzer & Auf'm Bahnhof Zoo (Pop 78)-_XLzfbSeKJ4.mp4",
+            "size": 52.375885999999994,
+            "url": "https://github.com/circuitalmynds/music_t2/blob/main/videos/Nina Hagen Band - TV-Glotzer & Auf'm Bahnhof Zoo (Pop 78)-_XLzfbSeKJ4.mp4?raw=true"
+        },
+        {
+            "id": "_fqgoHRm_ns",
+            "name": "Yngwie J. Malmsteen – Icarus' Dream Suite Op.4-_fqgoHRm_ns.mp4",
+            "path": "t2/videos/Yngwie J. Malmsteen – Icarus' Dream Suite Op.4-_fqgoHRm_ns.mp4",
+            "size": 15.721943,
+            "url": "https://github.com/circuitalmynds/music_t2/blob/main/videos/Yngwie J. Malmsteen – Icarus' Dream Suite Op.4-_fqgoHRm_ns.mp4?raw=true"
+        },
+        {
+            "id": "1Cler6PrRbg",
+            "name": "José José - He Renunciado a Ti (Video Oficial)-1Cler6PrRbg.mp4",
+            "path": "t2/videos/José José - He Renunciado a Ti (Video Oficial)-1Cler6PrRbg.mp4",
+            "size": 13.185965999999999,
+            "url": "https://github.com/circuitalmynds/music_t2/blob/main/videos/José José - He Renunciado a Ti (Video Oficial)-1Cler6PrRbg.mp4?raw=true"
+        },
+        {
+            "id": "GyXox1QuzCQ",
+            "name": "Hinrich Philip Johnsen - Horn Concerto in E-flat major (1751)-GyXox1QuzCQ.mp4",
+            "path": "t2/videos/Hinrich Philip Johnsen - Horn Concerto in E-flat major (1751)-GyXox1QuzCQ.mp4",
+            "size": 20.556459999999998,
+            "url": "https://github.com/circuitalmynds/music_t2/blob/main/videos/Hinrich Philip Johnsen - Horn Concerto in E-flat major (1751)-GyXox1QuzCQ.mp4?raw=true"
+        },
+        {
+            "id": "fU4G_8VYlOQ",
+            "name": "Velvet Underground-'The Black Angel's Death Song' from 'Velvet Underground and Nico' LP-fU4G_8VYlOQ.mp4",
+            "path": "t2/videos/Velvet Underground-'The Black Angel's Death Song' from 'Velvet Underground and Nico' LP-fU4G_8VYlOQ.mp4",
+            "size": 5.204899999999999,
+            "url": "https://github.com/circuitalmynds/music_t2/blob/main/videos/Velvet Underground-'The Black Angel's Death Song' from 'Velvet Underground and Nico' LP-fU4G_8VYlOQ.mp4?raw=true"
+        },
+        {
+            "id": "7_-vxk2HbUY",
+            "name": "El Meister - En la Chopera Negra-7_-vxk2HbUY.mp4",
+            "path": "t2/videos/El Meister - En la Chopera Negra-7_-vxk2HbUY.mp4",
+            "size": 59.412037999999995,
+            "url": "https://github.com/circuitalmynds/music_t2/blob/main/videos/El Meister - En la Chopera Negra-7_-vxk2HbUY.mp4?raw=true"
+        },
+        {
+            "id": "gk9oyc-rVLc",
+            "name": "Los Apson - El Ultimo Beso (Letra)-gk9oyc-rVLc.mp4",
+            "path": "t2/videos/Los Apson - El Ultimo Beso (Letra)-gk9oyc-rVLc.mp4",
+            "size": 3.6943729999999997,
+            "url": "https://github.com/circuitalmynds/music_t2/blob/main/videos/Los Apson - El Ultimo Beso (Letra)-gk9oyc-rVLc.mp4?raw=true"
+        },
+        {
+            "id": "4_bLVXuiZVI",
+            "name": "Fauré Violin Sonata No.1 in A major, Op.13 Dumay, Collard-4_bLVXuiZVI.mp4",
+            "path": "t2/videos/Fauré Violin Sonata No.1 in A major, Op.13 Dumay, Collard-4_bLVXuiZVI.mp4",
+            "size": 30.536672999999997,
+            "url": "https://github.com/circuitalmynds/music_t2/blob/main/videos/Fauré Violin Sonata No.1 in A major, Op.13 Dumay, Collard-4_bLVXuiZVI.mp4?raw=true"
+        },
+        {
+            "id": "-203Pw8z_jA",
+            "name": "McBride - Mexican Rhapsody--203Pw8z_jA.mp4",
+            "path": "t2/videos/McBride - Mexican Rhapsody--203Pw8z_jA.mp4",
+            "size": 24.113049,
+            "url": "https://github.com/circuitalmynds/music_t2/blob/main/videos/McBride - Mexican Rhapsody--203Pw8z_jA.mp4?raw=true"
+        },
+        {
+            "id": "G_SBPZ_pdv4",
+            "name": "Underworld - King Of Snake (Everything...)-G_SBPZ_pdv4.mp4",
+            "path": "t2/videos/Underworld - King Of Snake (Everything...)-G_SBPZ_pdv4.mp4",
+            "size": 53.277364,
+            "url": "https://github.com/circuitalmynds/music_t2/blob/main/videos/Underworld - King Of Snake (Everything...)-G_SBPZ_pdv4.mp4?raw=true"
+        },
+        {
+            "id": "QQZXynCCaGA",
+            "name": "Laid Back - Enjoy the Vibes-QQZXynCCaGA.mp4",
+            "path": "t2/videos/Laid Back - Enjoy the Vibes-QQZXynCCaGA.mp4",
+            "size": 90.82150399999999,
+            "url": "https://github.com/circuitalmynds/music_t2/blob/main/videos/Laid Back - Enjoy the Vibes-QQZXynCCaGA.mp4?raw=true"
+        },
+        {
+            "id": "tj8vzloRKQ0",
+            "name": "Vyacheslav Gryaznov plays Rachmaninoff - Italian Polka (Transcription - V. Gryaznov)-tj8vzloRKQ0.mp4",
+            "path": "t2/videos/Vyacheslav Gryaznov plays Rachmaninoff - Italian Polka (Transcription - V. Gryaznov)-tj8vzloRKQ0.mp4",
+            "size": 11.881464,
+            "url": "https://github.com/circuitalmynds/music_t2/blob/main/videos/Vyacheslav Gryaznov plays Rachmaninoff - Italian Polka (Transcription - V. Gryaznov)-tj8vzloRKQ0.mp4?raw=true"
+        },
+        {
+            "id": "NZCmdwRzyy4",
+            "name": "Stravinsky El Pájaro de Fuego suite-NZCmdwRzyy4.mp4",
+            "path": "t2/videos/Stravinsky El Pájaro de Fuego suite-NZCmdwRzyy4.mp4",
+            "size": 63.480622999999994,
+            "url": "https://github.com/circuitalmynds/music_t2/blob/main/videos/Stravinsky El Pájaro de Fuego suite-NZCmdwRzyy4.mp4?raw=true"
+        },
+        {
+            "id": "ctsWdUaHsHM",
+            "name": "Prokofiev - Peter and the Wolf March-ctsWdUaHsHM.mp4",
+            "path": "t2/videos/Prokofiev - Peter and the Wolf March-ctsWdUaHsHM.mp4",
+            "size": 4.127877,
+            "url": "https://github.com/circuitalmynds/music_t2/blob/main/videos/Prokofiev - Peter and the Wolf March-ctsWdUaHsHM.mp4?raw=true"
+        },
+        {
+            "id": "ixpEmPJ5fz0",
+            "name": "All Shall Perish - In This Life Of Pain (HQ)-ixpEmPJ5fz0.mp4",
+            "path": "t2/videos/All Shall Perish - In This Life Of Pain (HQ)-ixpEmPJ5fz0.mp4",
+            "size": 8.983067,
+            "url": "https://github.com/circuitalmynds/music_t2/blob/main/videos/All Shall Perish - In This Life Of Pain (HQ)-ixpEmPJ5fz0.mp4?raw=true"
+        },
+        {
+            "id": "iKEc9JMMpvU",
+            "name": "Tiempo Perdido-iKEc9JMMpvU.mp4",
+            "path": "t2/videos/Tiempo Perdido-iKEc9JMMpvU.mp4",
+            "size": 3.6802859999999997,
+            "url": "https://github.com/circuitalmynds/music_t2/blob/main/videos/Tiempo Perdido-iKEc9JMMpvU.mp4?raw=true"
+        },
+        {
+            "id": "4qrnfmPWU6Q",
+            "name": "Alton Ellis - 'Pearls' [Official Audio]-4qrnfmPWU6Q.mp4",
+            "path": "t2/videos/Alton Ellis - 'Pearls' [Official Audio]-4qrnfmPWU6Q.mp4",
+            "size": 3.5947069999999997,
+            "url": "https://github.com/circuitalmynds/music_t2/blob/main/videos/Alton Ellis - 'Pearls' [Official Audio]-4qrnfmPWU6Q.mp4?raw=true"
+        },
+        {
+            "id": "bjXG9Y495Us",
+            "name": "Kraftwerk - Toccata Electronica (Full Album)-bjXG9Y495Us.mp4",
+            "path": "t2/videos/Kraftwerk - Toccata Electronica (Full Album)-bjXG9Y495Us.mp4",
+            "size": 84.956372,
+            "url": "https://github.com/circuitalmynds/music_t2/blob/main/videos/Kraftwerk - Toccata Electronica (Full Album)-bjXG9Y495Us.mp4?raw=true"
+        },
+        {
+            "id": "1sORKrxLvfI",
+            "name": "Petite suite, CD 71, L. 65 - III. Menuet (Live)-1sORKrxLvfI.mp4",
+            "path": "t2/videos/Petite suite, CD 71, L. 65 - III. Menuet (Live)-1sORKrxLvfI.mp4",
+            "size": 3.194175,
+            "url": "https://github.com/circuitalmynds/music_t2/blob/main/videos/Petite suite, CD 71, L. 65 - III. Menuet (Live)-1sORKrxLvfI.mp4?raw=true"
+        },
+        {
+            "id": "40p1OEBuPYE",
+            "name": "Staccato polka-40p1OEBuPYE.mp4",
+            "path": "t2/videos/Staccato polka-40p1OEBuPYE.mp4",
+            "size": 4.073878,
+            "url": "https://github.com/circuitalmynds/music_t2/blob/main/videos/Staccato polka-40p1OEBuPYE.mp4?raw=true"
+        },
+        {
+            "id": "P3U5CQ8N8TY",
+            "name": "The Residents - Loneliness-P3U5CQ8N8TY.mp4",
+            "path": "t2/videos/The Residents - Loneliness-P3U5CQ8N8TY.mp4",
+            "size": 3.2419,
+            "url": "https://github.com/circuitalmynds/music_t2/blob/main/videos/The Residents - Loneliness-P3U5CQ8N8TY.mp4?raw=true"
+        },
+        {
+            "id": "rf0dR2H7vRc",
+            "name": "Barricadas (1985, Álbum completo) - Santiago del Nuevo Extremo-rf0dR2H7vRc.mp4",
+            "path": "t2/videos/Barricadas (1985, Álbum completo) - Santiago del Nuevo Extremo-rf0dR2H7vRc.mp4",
+            "size": 57.870400999999994,
+            "url": "https://github.com/circuitalmynds/music_t2/blob/main/videos/Barricadas (1985, Álbum completo) - Santiago del Nuevo Extremo-rf0dR2H7vRc.mp4?raw=true"
+        },
+        {
+            "id": "SKwQroAkYdk",
+            "name": "1929, I May Be Wrong, Why Can't You, Jack Hylton Orch. with Sam Brown, HD 78rpm-SKwQroAkYdk.mp4",
+            "path": "t2/videos/1929, I May Be Wrong, Why Can't You, Jack Hylton Orch. with Sam Brown, HD 78rpm-SKwQroAkYdk.mp4",
+            "size": 23.608245,
+            "url": "https://github.com/circuitalmynds/music_t2/blob/main/videos/1929, I May Be Wrong, Why Can't You, Jack Hylton Orch. with Sam Brown, HD 78rpm-SKwQroAkYdk.mp4?raw=true"
+        },
+        {
+            "id": "mSslK6T1cdU",
+            "name": "AI plays The Firebird (Stravinski-Agosti)-mSslK6T1cdU.mp4",
+            "path": "t2/videos/AI plays The Firebird (Stravinski-Agosti)-mSslK6T1cdU.mp4",
+            "size": 38.031371,
+            "url": "https://github.com/circuitalmynds/music_t2/blob/main/videos/AI plays The Firebird (Stravinski-Agosti)-mSslK6T1cdU.mp4?raw=true"
+        },
+        {
+            "id": "KVq9bQXHGyc",
+            "name": "A Flock o f Seagulls - 1982 _LP Album-KVq9bQXHGyc.mp4",
+            "path": "t2/videos/A Flock o f Seagulls - 1982 _LP Album-KVq9bQXHGyc.mp4",
+            "size": 84.292613,
+            "url": "https://github.com/circuitalmynds/music_t2/blob/main/videos/A Flock o f Seagulls - 1982 _LP Album-KVq9bQXHGyc.mp4?raw=true"
+        },
+        {
+            "id": "2q1RWbAqYtU",
+            "name": "My Kingdom-2q1RWbAqYtU.mp4",
+            "path": "t2/videos/My Kingdom-2q1RWbAqYtU.mp4",
+            "size": 8.190536,
+            "url": "https://github.com/circuitalmynds/music_t2/blob/main/videos/My Kingdom-2q1RWbAqYtU.mp4?raw=true"
+        },
+        {
+            "id": "sRfu94lOEPo",
+            "name": "The World Has Turned And Left Me Here-sRfu94lOEPo.mp4",
+            "path": "t2/videos/The World Has Turned And Left Me Here-sRfu94lOEPo.mp4",
+            "size": 7.053833999999999,
+            "url": "https://github.com/circuitalmynds/music_t2/blob/main/videos/The World Has Turned And Left Me Here-sRfu94lOEPo.mp4?raw=true"
+        },
+        {
+            "id": "qKLp_13BLgM",
+            "name": "Hola Como Estas - Los Hermanos Vega-qKLp_13BLgM.mp4",
+            "path": "t2/videos/Hola Como Estas - Los Hermanos Vega-qKLp_13BLgM.mp4",
+            "size": 7.634581,
+            "url": "https://github.com/circuitalmynds/music_t2/blob/main/videos/Hola Como Estas - Los Hermanos Vega-qKLp_13BLgM.mp4?raw=true"
+        },
+        {
+            "id": "mx2W5k6Wmms",
+            "name": "Antonio Tormo - Mis harapos   (1949)-mx2W5k6Wmms.mp4",
+            "path": "t2/videos/Antonio Tormo - Mis harapos   (1949)-mx2W5k6Wmms.mp4",
+            "size": 81.816079,
+            "url": "https://github.com/circuitalmynds/music_t2/blob/main/videos/Antonio Tormo - Mis harapos   (1949)-mx2W5k6Wmms.mp4?raw=true"
+        },
+        {
+            "id": "gJcMJweaJdc",
+            "name": "Ella Fitzgerald - Ella !-gJcMJweaJdc.mp4",
+            "path": "t2/videos/Ella Fitzgerald - Ella !-gJcMJweaJdc.mp4",
+            "size": 3.098772,
+            "url": "https://github.com/circuitalmynds/music_t2/blob/main/videos/Ella Fitzgerald - Ella !-gJcMJweaJdc.mp4?raw=true"
+        },
+        {
+            "id": "jZ_B5cTXSNo",
             "name": "The Cure - Halo with lyrics and subs-jZ_B5cTXSNo.mp4",
             "path": "t2/videos/The Cure - Halo with lyrics and subs-jZ_B5cTXSNo.mp4",
-            "size": 13.533461504000002,
+            "size": 13.216270999999999,
             "url": "https://github.com/circuitalmynds/music_t2/blob/main/videos/The Cure - Halo with lyrics and subs-jZ_B5cTXSNo.mp4?raw=true"
         },
         {
+            "id": "1eTFlB09LaQ",
             "name": "Conjunto Primavera - quien como tu (cover)-1eTFlB09LaQ.mp4",
             "path": "t2/videos/Conjunto Primavera - quien como tu (cover)-1eTFlB09LaQ.mp4",
-            "size": 18.830370816000002,
+            "size": 18.389034,
             "url": "https://github.com/circuitalmynds/music_t2/blob/main/videos/Conjunto Primavera - quien como tu (cover)-1eTFlB09LaQ.mp4?raw=true"
         },
         {
+            "id": "d414nPNQJkE",
             "name": "Naufrage en Adriatique-d414nPNQJkE.mp4",
             "path": "t2/videos/Naufrage en Adriatique-d414nPNQJkE.mp4",
-            "size": 6.681664512,
+            "size": 6.525062999999999,
             "url": "https://github.com/circuitalmynds/music_t2/blob/main/videos/Naufrage en Adriatique-d414nPNQJkE.mp4?raw=true"
         },
         {
+            "id": "UFa123jWNq8",
             "name": "Rhythm And Romance-UFa123jWNq8.mp4",
             "path": "t2/videos/Rhythm And Romance-UFa123jWNq8.mp4",
-            "size": 7.206726656000001,
+            "size": 7.037819,
             "url": "https://github.com/circuitalmynds/music_t2/blob/main/videos/Rhythm And Romance-UFa123jWNq8.mp4?raw=true"
         }
     ],
     "ready_to_push": true,
-    "total_size": 153.074369536
+    "total_size": 1021.1976260000002
 }
